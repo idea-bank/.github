@@ -8,7 +8,7 @@ We are a group an UCI student who are working on our capstone project.
 
 #### Nathan Mendoza
 
-![Nathan Mendoza's Avatar](../images/nathan-mendoza-avatar.png)
+![Nathan Mendoza's Avatar](https://github.com/idea-bank/.github/blob/main/images/nathan-mendoza-avatar.png?raw=true)
 
 I am a fourth year undergradudate student at UC Irvine as a software engineering (SE) major.
 
